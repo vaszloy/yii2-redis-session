@@ -1,5 +1,5 @@
 {
-    "name": "bscheshirwork/yii2-redis-session",
+    "name": "vaszloy/yii2-redis-session",
     "description": "Yii2 session based on Redis, can separate session by user",
     "type": "yii2-extension",
     "keywords": ["yii", "session", "redis"],
@@ -14,6 +14,7 @@
         "issues": "https://github.com/bscheshirwork/yii2-redis-session/issues",
         "source": "https://github.com/bscheshirwork/yii2-redis-session"
     },
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1.0",
         "yiisoft/yii2-redis": "*"
